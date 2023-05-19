@@ -76,6 +76,10 @@ public class Ejercicio_1 {
 
         BigInteger numeroDecimal7 = new BigInteger(numeroHex, 16);
         System.out.println("Número decimal: " + numeroDecimal7);
+        
+        String hex8 = "ABCD";
+        int decimal18 = hexToDecimal(hex8);
+        System.out.println("El número en base 10 es: " + decimal18);
     }
     
        
@@ -122,5 +126,34 @@ public class Ejercicio_1 {
         }
 
         return binario6 .toString();
+    }
+
+
+
+
+    public static int hexToDecimal(String hex) {
+        int decimal8 = 0;
+        int power = 0;
+
+        for (int i = hex.length() - 1; i >= 0; i--) {
+            char digit = hex.charAt(i);
+            int digitValue = getaDigitValue(digit);
+            decimal8 += digitValue * Math.pow(16, power);
+            power++;
+        }
+
+        return decimal8;
+    }
+
+    public static int getaDigitValue(char digito) {
+        if (digito >= '0' && digito <= '9') {
+            return digito - '0';
+        } else if (digito >= 'A' && digito <= 'F') {
+            return 10 + digito - 'A';
+        } else if (digito >= 'a' && digito <= 'f') {
+            return 10 + digito - 'a';
+        } else {
+            throw new IllegalArgumentException("Dígito inválido: " + digito);
+        }
     }
 }
