@@ -3,8 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio_1;
-
+package Unidad_1;
+import java.math.BigInteger;
 /**
  *
  * @author fing.labcom
@@ -69,10 +69,17 @@ public class Ejercicio_1 {
 
         System.out.println("El número en base 10 " + numeroDecimal6 + " es equivalente a binario " + numeroBinario6);
     
-    }
-       
-       
+        //Ejercicio 7
+        
     
+        String numeroHex = "c16";
+
+        BigInteger numeroDecimal7 = new BigInteger(numeroHex, 16);
+        System.out.println("Número decimal: " + numeroDecimal7);
+    }
+    
+       
+           
     //Ejercicio2
     
     public static int convertirBinarioADecimal(String binario) {
@@ -103,11 +110,8 @@ public class Ejercicio_1 {
         }
         return binary.toString();
     }
-    
-   
-    
-        
-       
+            
+     
 
     public static String convertirBiunario6(int number) {
         StringBuilder binario6 = new StringBuilder();
@@ -120,10 +124,3 @@ public class Ejercicio_1 {
         return binario6 .toString();
     }
 }
-       
-    
-    
-
-
-
-
