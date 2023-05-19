@@ -62,6 +62,13 @@ public class Ejercicio_1 {
 
         System.out.println("El número en base 10 " + numeroDecimal5  + " es equivalente a binario " + numeroBinario5.toString());
     
+        //Ejercicio 6
+         int numeroDecimal6 = 145; // Número en base 10
+
+        String numeroBinario6 = convertirBiunario6(numeroDecimal6);
+
+        System.out.println("El número en base 10 " + numeroDecimal6 + " es equivalente a binario " + numeroBinario6);
+    
     }
        
        
@@ -98,10 +105,25 @@ public class Ejercicio_1 {
     }
     
    
+    
+        
+       
+
+    public static String convertirBiunario6(int number) {
+        StringBuilder binario6 = new StringBuilder();
+
+        while (number > 0) {
+            binario6 .insert(0, number % 2);
+            number /= 2;
+        }
+
+        return binario6 .toString();
+    }
+}
        
     
     
-}
+
 
 
 
