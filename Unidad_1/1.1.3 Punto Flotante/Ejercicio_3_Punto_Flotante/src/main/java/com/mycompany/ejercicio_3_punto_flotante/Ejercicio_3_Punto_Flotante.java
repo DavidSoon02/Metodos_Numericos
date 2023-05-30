@@ -11,7 +11,7 @@ package com.mycompany.ejercicio_3_punto_flotante;
  */
 public class Ejercicio_3_Punto_Flotante {
 public static void main(String[] args) {
-        int a = 150; // Valor máximo para un entero
+int a = Integer.MAX_VALUE ; // Valor máximo para un entero
         int b = 260; // Valor a sumar
         
         int sum = a + b; // Realizar la suma
@@ -21,8 +21,6 @@ public static void main(String[] args) {
             System.out.println("Desbordamiento detectado.");
         } else {
             System.out.println("No se produjo desbordamiento.");
-        }
-    }
-
-    
+        }
+    }    
 }
