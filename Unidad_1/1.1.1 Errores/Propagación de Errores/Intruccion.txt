@@ -1,0 +1,4 @@
+Instruccion
+	Instalar la libreria JFree Chart
+
+Link: https://sourceforge.net/projects/jfreechart/
