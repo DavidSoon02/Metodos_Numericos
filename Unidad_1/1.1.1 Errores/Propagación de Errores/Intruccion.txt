@@ -1,4 +1,6 @@
-Instruccion
-	Instalar la libreria JFree Chart
+Instrucciones
 
-Link: https://sourceforge.net/projects/jfreechart/
+	1.-Para poder hacer uso de este código en java, se debe instalar las librerias JFree Chart (versión 1.5.3) y jcommon (versión 1.0.23)
+
+Links de las librerías: https://sourceforge.net/projects/jfreechart/
+                        https://sourceforge.net/projects/jfreechart/files/3.%20JCommon/
