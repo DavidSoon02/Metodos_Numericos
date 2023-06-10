@@ -1,9 +1,9 @@
 
-package metodo;
+package Biseccion;
 
 import java.util.Scanner;
 
-public class Metodo {
+public class Biseccion {
 
     public static void main(String[] args) {
              Scanner scanner = new Scanner(System.in);
