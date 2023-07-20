@@ -2,7 +2,7 @@
 <html>
 <h1 align="center">Calculadora Métodos Númericos</h1>
 <body bgcolor="33FFE3"></body>
-<p><h3>Bienvenidos a continuacion se presenta el proyecto de la materia de metodos numericos el cual consiste en implementar una serie de programas referentes a temas vistos en el transcurso de la materia.</p></h3>
+<p style="color:#FF0000"><h3>Bienvenidos a continuacion se presenta el proyecto de la materia de metodos numericos el cual consiste en implementar una serie de programas referentes a temas vistos en el transcurso de la materia.</p></h3>
 <p><h3>-El programa tiene la capacidad de aceptar valores de entrada para cualquier algoritmo.<p></h3>
 <p><h3>-El programa valida que los parametros que se pasen sean los aducuados.<p></h3>
 <p><h3>Para la implementacion de los programas se utilizo Matlab.</h3></p>
