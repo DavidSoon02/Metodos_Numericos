@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1 align="center"> <font color="red">Calculadora Métodos Númericos</font></h1>
+<h1 align="center"> <font color="red">Calculadora Métodos Númericos </h1></font>
 <body bgcolor="33FFE3"></body>
 <p><h3>Bienvenidos a continuacion se presenta el proyecto de la materia de metodos numericos el cual consiste en implementar una serie de programas referentes a temas vistos en el transcurso de la materia.</p></h3>
 <p><h3>-El programa tiene la capacidad de aceptar valores de entrada para cualquier algoritmo.<p></h3>
