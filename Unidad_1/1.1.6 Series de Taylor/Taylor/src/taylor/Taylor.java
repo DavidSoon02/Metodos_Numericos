@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Taylor {
 // Programa N°1
-   /* public static void main(String[] args) {
+   public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Ingrese el valor x: ");
             double dato = scanner.nextDouble();
@@ -32,10 +32,10 @@ public class Taylor {
         }
         return aproximacion;
     }
-}*/
+}
 
 // Programa N°2
-   /* public static void main(String[] args) {
+    public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Ingrese el valor x: ");
             double dato = scanner.nextDouble();
@@ -55,9 +55,7 @@ public class Taylor {
         }
         return respuesta;
     }
-}*/
-
-
+}
 
 
 // Programa N°3
