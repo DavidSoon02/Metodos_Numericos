@@ -34,9 +34,9 @@
 <td>Punto Flotante</td>
 <td>Sistema de Numeración</td>
 <td>Teorema de Bolzano</td>
- <td>Teorema de Bolzano</td>
- <td>Teorema de Bolzano</td>
- <td>Teorema de Bolzano</td>
+ <td>Series de Taylor</td>
+ <td>Cuadratura de Gauss</td>
+ <td>Metodo Euler</td>
 </tr>
 <tr>
 <td>Valor Exacto</td>
