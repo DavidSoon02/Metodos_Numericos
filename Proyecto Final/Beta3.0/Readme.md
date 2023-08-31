@@ -14,8 +14,8 @@
 <p><h3>Ventana Principal de selecion de tema</h3></p>
 
 
-![Cap10](https://github.com/JosueRM2001/Readme/assets/134113256/a60d8ee7-f61f-4691-aaa3-6b0ec335631e)
 
+![Captura de pantalla 2023-08-31 160908](https://github.com/DavidSoon02/Metodos_Numericos/assets/134113256/10c74a30-2b69-4cd5-81f5-12691eb11036)
 
 
 
