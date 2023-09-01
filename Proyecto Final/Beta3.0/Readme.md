@@ -46,9 +46,9 @@
 <td>Mantisa</td>
 <td>Decimal</td>
 <td>Funcion Continúa</td>
-<td>Teorema de Bolzano</td>
-<td>Teorema de Bolzano</td>
-<td>Teorema de Bolzano</td>
+<td>----------</td>
+<td>-----------</td>
+<td>-----------</td>
  
 </tr>
 <tr>
@@ -59,9 +59,9 @@
 <td>Exponente</td>
 <td>Binario</td>
 <td>Intervalo</td>
- <td>Teorema de Bolzano</td>
- <td>Teorema de Bolzano</td>
- <td>Teorema de Bolzano</td>
+ <td>----------</td>
+ <td>----------</td>
+ <td>----------</td>
 </tr>
 </table>
 <p><h3>Creadores</h3></p>
