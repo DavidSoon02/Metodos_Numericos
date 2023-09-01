@@ -54,7 +54,7 @@
 <tr>
 <td>Valor Aproximado</td>
 <td>Distancia de Manhattan</td>
-<td>--------</td>
+<td></td>
 <td>Error</td>
 <td>Exponente</td>
 <td>Binario</td>
